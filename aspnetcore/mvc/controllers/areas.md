@@ -126,7 +126,7 @@ The following code changes the default area folder from `"Areas"` to `"MyAreas"`
 
 ## Areas with Razor Pages
 
-Areas with Razor Pages require and *Areas/&lt;area name&gt;/Pages* folder in the root of the app. The following folder structure is used with the [sample download](https://github.com/aspnet/AspNetCore.Docs/tree/master/aspnetcore/mvc/controllers/areas/samples)
+Areas with Razor Pages require an *Areas/&lt;area name&gt;/Pages* folder in the root of the app. The following folder structure is used with the [sample download](https://github.com/aspnet/AspNetCore.Docs/tree/master/aspnetcore/mvc/controllers/areas/samples)
 
 * Project name
   * Areas
